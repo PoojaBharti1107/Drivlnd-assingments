@@ -24,7 +24,3 @@ JavaScript: JavaScript is employed to add interactivity and dynamic functionalit
 Responsive Design: The website is designed with a responsive approach, ensuring optimal viewing across various devices and screen sizes. It is developed using responsive design techniques and CSS media queries to adapt the layout and content to different screen resolutions.
 
 The combination of these technologies and functionalities creates an immersive and user-friendly experience for B2B clients visiting the AI Business Services website.
-
-
-
-
