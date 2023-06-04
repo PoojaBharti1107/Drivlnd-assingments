@@ -12,15 +12,14 @@ About Section: The website includes an about section that provides insights into
 
 Contact Form: The website includes a contact section with a user-friendly form for B2B clients to reach out and inquire about services. The form collects important information such as the client's name, email, and message. This streamlined contact process encourages engagement and fosters meaningful interactions with clients.
 
-Tech Stack Used
-The AI Business Services website is built using a comprehensive tech stack that encompasses front-end web technologies to create an engaging and interactive user experience. The following technologies were utilized in its development:
+How to Run the Web Page Locally
+To run the AI Business Services web page locally on your machine, follow these steps:
 
-HTML5: HTML5, the latest version of the Hypertext Markup Language, is used for structuring and organizing the website's content. It provides semantic elements and improved accessibility features, ensuring a well-structured and standards-compliant website.
+Clone the repository: Start by cloning this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
+git clone https://github.com/PoojaBharti1107/Drivlnd-assingments.git
+Navigate to the project directory: Once the repository is cloned, navigate to the project directory using the cd command
 
-CSS3: CSS3 is utilized for styling the website, adding aesthetic appeal and visual enhancements. It allows for the definition of colors, fonts, layouts, and animations, creating an engaging and visually appealing user interface.
+Open the web page: The web page is built using static HTML, CSS, and JavaScript files, so you can simply open the index.html file in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting "Open with" and choosing your web browser.
 
-JavaScript: JavaScript is employed to add interactivity and dynamic functionality to the website. It is responsible for handling user interactions, such as toggling the mobile navigation menu and capturing form submissions. JavaScript enhances the user experience, making the website more interactive and responsive.
+Interact with the web page: The web page will now open in your web browser, allowing you to explore the different sections, navigate the menu, and interact with the contact form.
 
-Responsive Design: The website is designed with a responsive approach, ensuring optimal viewing across various devices and screen sizes. It is developed using responsive design techniques and CSS media queries to adapt the layout and content to different screen resolutions.
-
-The combination of these technologies and functionalities creates an immersive and user-friendly experience for B2B clients visiting the AI Business Services website.
